@@ -161,14 +161,4 @@ This project is useful for:
 
 ---
 
-## 🏁 How to Cite or Use in Reports
-
-You can mention this project in academic reports as:
-
-> “A minimal C‑based Employee Training Management System demonstrating CRUD operations and multiple data structure representations (linked list, stack, queue, BST) for educational purposes.”
-
-It is suitable for **labs, mini‑projects, or code attachments** in DSA/C‑programming modules.
-
----
-
 ## Authors : Bhavyan Naidu | Deepak Reddy
