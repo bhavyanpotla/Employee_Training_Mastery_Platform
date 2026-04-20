@@ -145,9 +145,9 @@ gcc main.c -o training_platform
 3. **Generic**: `void*` pointers for Stack/Queue
 
 ## 🔗 Project Links
-- **Demo Video**: [Google Drive Link - Restricted Access]
-- **Project Report**: [docs/project_report.pdf]
-- **Presentation**: [ppt/presentation.pptx]
+- **Demo Video**: [https://drive.google.com/file/d/1Hbt-YsjRjVAEU-vnRVprAtlYrEcLGKqC/view?usp=sharing]
+- **Project Report**: [https://docs.google.com/document/d/1teE1_fbL5vXUR3kveKzuXCrVpyuw_-3w/edit?usp=sharing&ouid=104059422446434721101&rtpof=true&sd=true]
+- **Presentation**: [https://docs.google.com/presentation/d/1I3-bIHyoqhZ_Us0m2epYE_GNDNbJUEYy/edit?usp=sharing&ouid=104059422446434721101&rtpof=true&sd=true]
 
 ## 📁 Repository Structure
 ```
