@@ -83,19 +83,27 @@ gcc main.c -o training_platform
 ./training_platform
 ```
 
-## 📊 Sample Output
+## 📊 Sample Output Screenshots
 ```
-[ ADD NEW RECORD ]
-Enter ID: 101
-Enter Name: Bhavyan
-Enter Course: Data_Structures
-Enter Score: 95
+<img width="694" height="344" alt="image" src="https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909" />
 
-[Success] Entry created and structures updated.
+<img width="664" height="314" alt="image" src="https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed" />
 
-[ BST: HIERARCHY TREE ]
+<img width="875" height="430" alt="image" src="https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1" />
+
+<img width="650" height="344" alt="image" src="https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f" />
+
+<img width="1480" height="165" alt="image" src="https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c" />
+
+<img width="467" height="647" alt="image" src="https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2" />
+
+<img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/02c08001-a639-4b4d-b9c5-bb1d1434dcb4" />
         
+<img width="593" height="549" alt="image" src="https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844" />
     
+<img width="660" height="244" alt="image" src="https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca" />
+
+<img width="870" height="373" alt="image" src="https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9" />
         
 ```
 
