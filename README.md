@@ -1,4 +1,3 @@
-
 # 🛡️ Employee Training Mastery Platform (ETMP)
 **An Enterprise-Grade C Implementation of Multi-Structural Data Management**
 
@@ -84,28 +83,56 @@ gcc main.c -o training_platform
 ```
 
 ## 📊 Sample Output Screenshots
-```
-<img width="694" height="344" alt="image" src="https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909" />
 
-<img width="664" height="314" alt="image" src="https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed" />
+### **1. Main Menu Interface**
+### Clean console menu showing all CRUD operations (1-Add, 2-Display List, 3-Structures Menu, 4-Exit) with professional borders and clear numbering.
+![Main Menu](https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909) 
+ 
 
-<img width="875" height="430" alt="image" src="https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1" />
+### **2. Add Employee Screen**
+### Employee input form collecting ID, Name, Course Name, and Training Score with input validation and confirmation prompt.
+![Add Employee](https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed) 
+ 
 
-<img width="650" height="344" alt="image" src="https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f" />
+### **3. Tabular View Registry**
+### Complete employee registry in tabular format showing ID, Name, Course, and Score for all stored records from linked list master database.
+![BST Tree](https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1)
 
-<img width="1480" height="165" alt="image" src="https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c" />
 
-<img width="467" height="647" alt="image" src="https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2" />
+### **4. Data Structure Representation Menu**
+### Secondary menu for viewing data through different structures (1-Stack, 2-Queue, 3-BST, 4-Back) demonstrating multi-view architecture.
+![Stack View](https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f) 
+ 
 
-<img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/02c08001-a639-4b4d-b9c5-bb1d1434dcb4" />
-        
-<img width="593" height="549" alt="image" src="https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844" />
-    
-<img width="660" height="244" alt="image" src="https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca" />
+### **5. Linked List Vew**
+### Forward traversal of master singly linked list showing complete employee records in chronological insertion order.
+![Queue View](https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c) 
 
-<img width="870" height="373" alt="image" src="https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9" />
-        
-```
+
+### **6.  Stack (LIFO) Display**
+### LIFO stack visualization showing most recent employees at top (reverse chronological order) with clear stack formatting.
+![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2) 
+
+
+### **7. Queue (FIFO) View**
+### FIFO queue showing processing order (first-come-first-served) from front to rear pointer traversal.
+<img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/6ff45b76-b433-4f6c-99ea-9405c8c06c04" />
+ 
+
+### **8.  BST Tree Visualization**
+### Binary Search Tree hierarchy rendered with recursive indentation showing sorted employee IDs in in-order traversal.
+![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844) 
+ 
+
+### **9. Delete Employee Operation**
+### Employee deletion by ID with confirmation, successful removal message, and updated record count display.
+![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca) 
+
+
+### **10. RE-VISIT Registry**
+### Program restart showing successful file load from training_data.dat with all previous records automatically restored.
+![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9) 
+ 
 
 ## 🧪 Evaluation Points (For Evaluators)
 - **Memory Leak Prevention**: `resetStructures()` frees before rebuilds
@@ -133,6 +160,4 @@ project-name/
 │   └── presentation.pptx
 ├── README.md
 └── sample_output.txt
-```
-
----
+``` 
